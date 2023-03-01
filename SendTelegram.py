@@ -3,7 +3,7 @@ from ExternalIP import resposta
 
 
 
-CHAVE_API = "6168314162:AAHEVtTGBz7Fh-NJiLUDWktfHklFU1SHfoY"
+CHAVE_API = "TOKEN BOT"
 
 bot = telebot.TeleBot(CHAVE_API)
 
